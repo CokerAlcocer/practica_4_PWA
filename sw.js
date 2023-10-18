@@ -5,12 +5,12 @@ const INMUTABLE = 'inmutablev1';
 const DYNAMIC = 'dynamicv1';
 const DYNAMIC_LIMIT = 30
 const APP_SHELL = [
-    '/',
-    '/index.html',
-    'css/styles.css',
-    'img/img2.jpg',
-    'js/app.js',
-    '/pages/offline.html'
+    './',
+    './index.html',
+    './css/styles.css',
+    './img/img2.jpg',
+    './js/app.js',
+    './pages/offline.html'
 ];
 let flag = undefined;
 
